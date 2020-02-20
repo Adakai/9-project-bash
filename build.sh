@@ -6,5 +6,5 @@ cd 9-project
 
 docker build -t docker-app:latest .
 
-chmod +x ./build.sh
+docker-compose up
 
